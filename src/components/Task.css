@@ -1,0 +1,18 @@
+.todo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%; 
+}
+.todo h3{
+    font-size: 25px;
+    background-color: orangered;
+}
+.toggle-btn{
+    width: 100px;
+    height: 30px;
+    font-size: 17px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
